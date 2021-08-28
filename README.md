@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purpleblack7
-- 👀 I’m interested in AWS, Data Engineering and Data Engineering
+- 👀 I’m interested in AWS, Data Engineering
 - 🌱 I’m currently learning Mongo DB, AWS Architect - Associate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
