@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purpleblack7
-- 👀 I’m interested in AWS, Data Engineering
-- 🌱 I’m currently learning Mongo DB, Luigi
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Engineering, Databases and Cloud Engineering
+- 🌱 I’m currently learning Snowflake, GCP
+- 💞️ I’m looking to collaborate on projects where you require cloud architecture on data projects and someone who can write Python scripts
 - 📫 How to reach me ...
 
 <!---
